@@ -28,7 +28,7 @@ def _deactivate(args):
 _deactivate(["nondestructive"])
 aliases["deactivate"] = _deactivate
 
-$VIRTUAL_ENV = r"/home/angelium/dev/ecommerce-website/env"
+$VIRTUAL_ENV = r"/home/angelium/dev/shoppingwebsite/env"
 
 $_OLD_VIRTUAL_PATH = $PATH
 $PATH = $PATH[:]

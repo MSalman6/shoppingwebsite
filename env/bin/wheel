@@ -1,4 +1,4 @@
-#!/home/angelium/dev/ecommerce-website/env/bin/python3
+#!/home/angelium/dev/shoppingwebsite/env/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys

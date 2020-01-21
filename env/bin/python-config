@@ -1,4 +1,4 @@
-#!/home/angelium/dev/ecommerce-website/env/bin/python
+#!/home/angelium/dev/shoppingwebsite/env/bin/python
 
 import sys
 import getopt

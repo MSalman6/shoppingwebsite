@@ -1,4 +1,4 @@
-#!/home/angelium/dev/ecommerce-website/env/bin/python3
+#!/home/angelium/dev/shoppingwebsite/env/bin/python3
 from django.core import management
 
 if __name__ == "__main__":
