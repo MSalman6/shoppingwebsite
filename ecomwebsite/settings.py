@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'allauth.account',
     'allauth.socialaccount',
 
+    'django_countries',
     'crispy_forms',
     'rest_framework',
     'core',
